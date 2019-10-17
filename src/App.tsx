@@ -5,7 +5,8 @@ import './App.css';
 const App: React.FC = () => {  
   return (
     <div className="App">
-      Hellow
+      Hello from App
+      
     </div>
   );
 }
